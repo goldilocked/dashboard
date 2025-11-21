@@ -105,7 +105,7 @@ const links = [[{
       </UDashboardNavbar>
 
       <UDashboardToolbar>
-        <UNavigationMenu :items="links" highlight class="flex-1" />
+        <UNavigationMenu :items="links" class="flex-1" />
       </UDashboardToolbar>
     </template>
 
